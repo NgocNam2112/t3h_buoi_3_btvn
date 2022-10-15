@@ -1,0 +1,20 @@
+{
+  "name": "buoi_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgocNam2112/t3h_buoi_3_btvn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgocNam2112/t3h_buoi_3_btvn/issues"
+  },
+  "homepage": "https://github.com/NgocNam2112/t3h_buoi_3_btvn#readme"
+}
